@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment RSS</string>
+    <string name="subscribe_button">Subscribe</string>
+    <string name="logout_button">Logout</string>
+    <string name="connection_error">Connection error</string>
+    <string name="xml_error">XML error</string>
+    <string name="page_title">Page title</string>
+    <string name="updated">Updated</string>
+    <string name="channel_name">New updates</string>
+    <string name="channel_description">In this channel you can receive notifications about new news added</string>
+</resources>

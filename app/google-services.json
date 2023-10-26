@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365099138735",
+    "project_id": "rss-reader-9ca3b",
+    "storage_bucket": "rss-reader-9ca3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365099138735:android:c3ff790159931642bd9e5a",
+        "android_client_info": {
+          "package_name": "com.example.assignmentrss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365099138735-pkclvbl668jsn5p6sdh2ggol5hi7bu46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xnVMas-e74ZGkUGcYCD5-KZvS9fGdk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365099138735-pkclvbl668jsn5p6sdh2ggol5hi7bu46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
